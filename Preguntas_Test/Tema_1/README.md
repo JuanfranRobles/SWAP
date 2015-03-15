@@ -1,4 +1,4 @@
-# Preguntas Test Tema 1.
+# Preguntas Tipo Test Tema 1.
 ### Juan Francisco Robles Fuentes
 
 ## Primera Pregunta.
