@@ -41,20 +41,12 @@ Al final tenemos una disponibilidad del: **99.213%**
 ## Ejercicio T2.2:
 **Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad.**
 Buscando en la web he encontrado las siguientes librerías para el desarrollo de aplicaciones de alta disponibilidad: 
-**Java**
-* JBoss.
-**Python**
-*Django.
-*TurboGears.
-**PHP**
-*Yii.
-*PHPOpenbiz.
-*CakePHP.
-**NodeJS**
-*Koa.
-**JavaScript**
-*AngularJS.
-**Otras**
+* **Java:** JBoss.
+* **Python:**: Django, TurboGears.
+* **PHP:** Yii, PHPOpenbiz, CakePHP.
+* **NodeJS:** Koa.
+* **JavaScript:** AngularJS.
+**Otras**\n
 * Corosync+Pacemaker: Herramientas para el manejo de clusters.
 * Juno OS: Librería de alta disponibilidad para comunicaciones basadas en intercambio de paquetes.
 * Nagios XI: librería incluída en Nagios para implementar rutinas de alta disponibilidad.
