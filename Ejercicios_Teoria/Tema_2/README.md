@@ -57,7 +57,7 @@ En la web existe información sobre muchas herramientas de carga como:
 * ApacheBench: Herramienta creada por la fundación Apache para realizar pruebas de carga.
 * Siege: Creada por JoeDog Software.
 * HeavyLoad: Software libre para realizar pruebas de carga a servidores web.
-**10 herramientas gratuitas aquí:** http://www.devcurry.com/2010/07/10-free-tools-to-loadstress-test-your.html
+* **(Interesante)** en este enlace se habla sobre 10 aplicaciones de software libre para medir niveles de carga en servidores: http://www.devcurry.com/2010/07/10-free-tools-to-loadstress-test-your.html
 
 ## Ejercicio T2.4:
 **En este ejercicio debemos buscar diferentes tipos de productos: 
