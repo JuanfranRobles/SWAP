@@ -66,6 +66,7 @@ En la web existe información sobre muchas herramientas de carga como:
 * HeavyLoad: Software libre para realizar pruebas de carga a servidores web.
 * **(Interesante)** en este enlace se habla sobre 10 aplicaciones de software libre para medir niveles de carga en servidores: http://www.devcurry.com/2010/07/10-free-tools-to-loadstress-test-your.html
 * **(Tutoriales)** Para hacer pruebas con las herramientas más utilizadas actualmente para hacer prueba de carga a servidores se puede consultar el siguiente link: http://codehero.co/como-hacer-pruebas-de-carga-servidores-web/.
+
 ## Ejercicio T2.4:
 **En este ejercicio debemos buscar diferentes tipos de productos: **
 * (1) Buscar ejemplos de balanceadores software y hardware (productos comerciales).
