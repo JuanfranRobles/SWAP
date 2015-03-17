@@ -4,3 +4,5 @@ Servidores Web de Altas Prestaciones
 --------------------------------------------
 
 ### Ejercicios de teoría.
+* [Ejercicios Tema 2](Tema_2/README.md)
+* [Ejercicios Tema 3](Tema_3/README.md)
