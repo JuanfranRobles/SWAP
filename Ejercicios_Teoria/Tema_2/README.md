@@ -60,20 +60,20 @@ En la web existe información sobre muchas herramientas de carga como:
 * **(Interesante)** en este enlace se habla sobre 10 aplicaciones de software libre para medir niveles de carga en servidores: http://www.devcurry.com/2010/07/10-free-tools-to-loadstress-test-your.html
 
 ## Ejercicio T2.4:
-**En este ejercicio debemos buscar diferentes tipos de productos: 
+**En este ejercicio debemos buscar diferentes tipos de productos: **
 * (1) Buscar ejemplos de balanceadores software y hardware (productos comerciales).
 * (2) Buscar productos comerciales para servidores de aplicaciones. 
-* (3) Buscar productos comerciales para servidores de almacenamiento.**
+* (3) Buscar productos comerciales para servidores de almacenamiento.
 
-** Apartado 1: **
+**Apartado 1:**
 Ejemplos de balanceadores Software y Hardware comerciales son: 
 * Software: Kemp, HAProxy, LVS (Linux Virtual Server), Nginx, Pound, Pen, Zen Load Balancer. 
 * Hardware: CISCO, F5 BIG-IP LTM, Radware AppDirector, Ondemand Switch, Coyote Point, Barracuda, etc.
 
-**Apartado 2: **
+**Apartado 2:**
 Ejemplos de servidores de aplicaciones comerciales son: 
 GlassFish, Java EE, Microsoft .Net, BEA WebLogic, IBM WebSphere, Sun-Netscape IPlanet, Sun One, Orace IAS, HP Bluestone, Base4 Server o Zope (Código abierto).
 
-**Apartado 3: **
+**Apartado 3:**
 Ejemplos de productos comerciales para servidores de almacenamiento: 
 HP ProLiant, Amazon EC2, Windows Azure, Dell PowerEdge, Lenovo ThinkServer, FlyTech, etc.
