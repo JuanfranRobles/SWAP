@@ -68,7 +68,7 @@ En la web existe información sobre muchas herramientas de carga como:
 * **(Tutoriales)** Para hacer pruebas con las herramientas más utilizadas actualmente para hacer prueba de carga a servidores se puede consultar el siguiente link: http://codehero.co/como-hacer-pruebas-de-carga-servidores-web/.
 
 ## Ejercicio T2.4:
-** En este ejercicio debemos buscar diferentes tipos de productos:**
+**En este ejercicio debemos buscar diferentes tipos de productos:**
 * (1) Buscar ejemplos de balanceadores software y hardware (productos comerciales).
 * (2) Buscar productos comerciales para servidores de aplicaciones. 
 * (3) Buscar productos comerciales para servidores de almacenamiento.
