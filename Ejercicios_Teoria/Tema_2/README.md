@@ -41,7 +41,20 @@ Al final tenemos una disponibilidad del: **99.213%**
 ## Ejercicio T2.2:
 **Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad.**
 Buscando en la web he encontrado las siguientes librerías para el desarrollo de aplicaciones de alta disponibilidad: 
-* JBoss: Librería de alta disponibilidad para Java.
+**Java**
+* JBoss.
+**Python**
+*Django.
+*TurboGears.
+**PHP**
+*Yii.
+*PHPOpenbiz.
+*CakePHP.
+**NodeJS**
+*Koa.
+**JavaScript**
+*AngularJS.
+**Otras**
 * Corosync+Pacemaker: Herramientas para el manejo de clusters.
 * Juno OS: Librería de alta disponibilidad para comunicaciones basadas en intercambio de paquetes.
 * Nagios XI: librería incluída en Nagios para implementar rutinas de alta disponibilidad.
@@ -56,9 +69,11 @@ En la web existe información sobre muchas herramientas de carga como:
 * LoadRunner: Software propietario de HP para medir carga en servidores.
 * ApacheBench: Herramienta creada por la fundación Apache para realizar pruebas de carga.
 * Siege: Creada por JoeDog Software.
+* Nagios.
+* Ganglia.
 * HeavyLoad: Software libre para realizar pruebas de carga a servidores web.
 * **(Interesante)** en este enlace se habla sobre 10 aplicaciones de software libre para medir niveles de carga en servidores: http://www.devcurry.com/2010/07/10-free-tools-to-loadstress-test-your.html
-
+* **(Tutoriales)** Para hacer pruebas con las herramientas más utilizadas actualmente para hacer prueba de carga a servidores se puede consultar el siguiente link: http://codehero.co/como-hacer-pruebas-de-carga-servidores-web/.
 ## Ejercicio T2.4:
 **En este ejercicio debemos buscar diferentes tipos de productos: **
 * (1) Buscar ejemplos de balanceadores software y hardware (productos comerciales).
