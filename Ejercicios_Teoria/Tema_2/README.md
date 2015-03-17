@@ -46,14 +46,14 @@ Buscando en la web he encontrado las siguientes librerías para el desarrollo de
 * **PHP:** Yii, PHPOpenbiz, CakePHP.
 * **NodeJS:** Koa.
 * **JavaScript:** AngularJS.
-**Otras**\n
-* Corosync+Pacemaker: Herramientas para el manejo de clusters.
-* Juno OS: Librería de alta disponibilidad para comunicaciones basadas en intercambio de paquetes.
-* Nagios XI: librería incluída en Nagios para implementar rutinas de alta disponibilidad.
-* Spectra T-Finity: librería de para redundancia y alta disponibilidad.
-* HA-OSCAR, The High Availability Linux Project y LikfeKeeper: Herramientas para alta disponibilidad en GNU/Linux.
-* DRBD, rsync o Integration: Herramientas para alta disponibilidad de datos.
-* UltraMonkey, Linux Virtual Server: Frameworks para alta disponibilidad en GNU/Linux.
+* **Otras**
+** Corosync+Pacemaker: Herramientas para el manejo de clusters.
+** Juno OS: Librería de alta disponibilidad para comunicaciones basadas en intercambio de paquetes.
+** Nagios XI: librería incluída en Nagios para implementar rutinas de alta disponibilidad.
+** Spectra T-Finity: librería de para redundancia y alta disponibilidad.
+** HA-OSCAR, The High Availability Linux Project y LikfeKeeper: Herramientas para alta disponibilidad en GNU/Linux.
+** DRBD, rsync o Integration: Herramientas para alta disponibilidad de datos.
+** UltraMonkey, Linux Virtual Server: Frameworks para alta disponibilidad en GNU/Linux.
 
 ## Ejercicio T2.3:
 **¿Cómo analizar el nivel de carga de cada uno de los subsistemas en el servidor?**
