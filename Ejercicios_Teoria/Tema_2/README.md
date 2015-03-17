@@ -24,7 +24,7 @@ Utilizando la fórmula **"As = Ac1 + (1-Ac1) * Ac2"** que mide el porcentaje de 
 * ISP: 0.95 + (1-0.95) * 0.95 = **0.9975**
 
 Replicando cada elemento una sola vez se obtiene la siguiente disponibilidad: 
-(0.9775*0.99*0.999999*0.9996*0.9775*0.9999*0.99999999*0.9975)*100 = ***94.3%**
+(0.9775*0.99*0.999999*0.9996*0.9775*0.9999*0.99999999*0.9975)*100 = **94.3%**
 
 Si añadimos otra réplica tendremos: 
 * Web: 0.0.9775 + (1-0.9775) * 0.85 = **0.996625**
