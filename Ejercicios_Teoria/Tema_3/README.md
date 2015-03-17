@@ -16,9 +16,9 @@ Entre las herramientas que permiten hacerlo de forma gráfica se encuentran:
  
 ##Ejercicio T3.2:
 Buscar con qué órdenes de terminal o herramientas gráficas podemos configurar bajo Windows y bajo Linux el filtrado y bloqueo de paquetes. 
-**Linux**
+* **Linux**
 Las órdenes que podemos usar son: iptables, ip o tc (linux traffic control).
-**Windows**
+* **Windows**
 La orden más conocida es route.
 
 **Herramientas gráficas**
