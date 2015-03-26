@@ -1,6 +1,6 @@
 Servidores Web de Altas Prestaciones
 ====================================
-3º Grado en Ingeniería Informática 2014/2015
+3Âº Grado en IngenierÃ­a InformÃ¡tica 2014/2015
 --------------------------------------------
 
 ### Preguntas tipo test.
