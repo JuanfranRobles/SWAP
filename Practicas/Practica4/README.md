@@ -22,6 +22,7 @@ Una vez las tengamos instaladas, estaremos preparados para comenzar los test sob
 Todas las herramientas realizarán la misma batería de pruebas; 10 mediciones de rendimiento con los mismos parámetros de entrada para el test que serán almacenados en tablas desde las que se obtendrán la media y la desviación típica de los resultados.
 Para las pruebas, el cliente solicitará un archivo HTML con nombre **"pruebas_rendimiento.html"** alojado en los dos servidores balanceados en la práctica 2 cuyo contenido se muestra en la siguiente imagen:
 * **Contenido Fichero** 
+
 ![fichero_prueba](Imagenes/fichero_prueba.png)
 
 Las máquinas que intervendrán en la batería de pruebas serán: 
@@ -105,7 +106,7 @@ donde:
 
 ![ht_me_tp](Imagenes/ht_me_tp.png) ![ht_desv_tp](Imagenes/ht_desv_tp.png) 
 
-![ht_me_ps](Imagenes/ht_me_ps.png) ![ht_dev_ps](Imagenes/ht_desv_ps.png)
+![ht_me_ps](Imagenes/ht_me_ps.png) ![ht_dev_ps](Imagenes/ht_dev_ps.png)
 
 En este caso, el tiempo de prueba es muy similar en las tres configuraciones y puede volver a comprobarse que la desviación típica del servidor individual en el número de peticiones por segundo es muy alta lo que no lo hace especialmente fiable para pruebas más costosas de carga.
 ## Tests con OpenWebLoad.
