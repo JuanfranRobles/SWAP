@@ -105,7 +105,7 @@ donde:
 
 ![ht_me_tp](Imagenes/ht_me_tp.png) ![ht_desv_tp](Imagenes/ht_desv_tp.png) 
 
-![ht_me_ps](Imagenes/ht_me_ps.png) ![ht_desv_ps](Imagenes/ht_desv_ps.png)
+![ht_me_ps](Imagenes/ht_me_ps.png) ![ht_dev_ps](Imagenes/ht_desv_ps.png)
 
 En este caso, el tiempo de prueba es muy similar en las tres configuraciones y puede volver a comprobarse que la desviación típica del servidor individual en el número de peticiones por segundo es muy alta lo que no lo hace especialmente fiable para pruebas más costosas de carga.
 ## Tests con OpenWebLoad.
