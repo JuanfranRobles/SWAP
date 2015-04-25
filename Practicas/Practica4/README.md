@@ -4,7 +4,7 @@
 --------------------------------------------
 
 
-# PRÁCTICA 4: Balanceo de carga.
+# PRÁCTICA 4: Midiendo el rendimiento de una granja web.
 ### Juan Francisco Robles Fuentes.
 
 Objetivos principales de la práctica:
