@@ -7,3 +7,5 @@ Servidores Web de Altas Prestaciones
 * [Práctica 1: Preparación de las herramientas](Practica1/README.md)
 * [Práctica 2: Clonar la información de un sitio web](Practica2/README.md)
 * [Práctica 3: Balanceo de carga](Practica3/README.md)
+* [Práctica 4: Comprobando Prestaciones](Practica4/README.md)
+* [Práctica 3: Sincronización de bases de datos](Practica5/README.md)
