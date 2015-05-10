@@ -38,7 +38,7 @@ Una vez creada la tabla insertamos nuestros contactos, como por ejemplo `mysql >
 Antes de comenzar a usar mysqldump es interesante consultar algunas de sus opciones, para ello podemos usar `mysqldump --help`. Con mysqldump podemos exportar nuestras bases de datos con `mysqldump nombre_base_datos -u root -p > /root/nombre.sql` (Para evitar posibles errores en un futuro realizamos las opraciones como superusuario con `sudo su`). 
 Así, desde nuestra máquina 1 nos disponemos a exportar la base de datos. Si tuviésemos que asegurar que los datos son los mismos en una y en otra (evitando que los usuarios aporten nuesvos datos o los modifiquen mientras se hace la exportación) podemos bloquear las bases de datos `mysql > flush tables with read lock;` 
 
-![bloqueo_BD](Imagenes/bloqueo_DB.png)
+![bloqueo_BD](Imagenes/bloqueo_BD.png)
 
 Ahora exportamos nuestra base de datos `mysqldump contactos -u root -p > /root/contactos.sql` y comprobamos que se ha exportado correctamente. 
 
