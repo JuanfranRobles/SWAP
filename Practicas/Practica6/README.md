@@ -22,17 +22,17 @@ Para esta parte podemos usar cualquiera de las máquinas virtuales que usamos en
 
 ![crear_discos](Imagenes/crear_discos.png)
 
-![crear_discos2](Imagenes/crear_discos2.png)
+![crear_discos2](Imagenes/crear_discos_2.png)
 
-![crear_discos3](Imagenes/crear_discos3.png)
+![crear_discos3](Imagenes/crear_discos_3.png)
 
-![crear_discos4](Imagenes/crear_discos4.png)
+![crear_discos4](Imagenes/crear_discos_4.png)
 
-![crear_discos5](Imagenes/crear_discos5.png)
+![crear_discos5](Imagenes/crear_discos_5.png)
 
-![crear_discos6](Imagenes/crear_discos6.png)
+![crear_discos6](Imagenes/crear_discos_6.png)
 
-![crear_discos7](Imagenes/crear_discos7.png)
+![crear_discos7](Imagenes/crear_discos_7.png)
 
 Una vez hallamos creado los discos nos dispondremos a configurar el RAID por software. Para ello, y como primer paso imprescindible en esta práctica, tendremos que instalar mdadm con `sudo apt-get install mdadm`. 
 
