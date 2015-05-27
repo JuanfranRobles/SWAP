@@ -38,7 +38,7 @@
 
 * Samba es una reimplementación del protocolo de red SMB/CIFS. Facilita el intercambio de ficheros y de impresoras entre sistemas Linux y Windows, o entre sistemas Linux -como una alternativa a Nfs. Se configura fácilmente. Más información en http://en.wikipedia.org/wiki/Server_Message_Block
 
-* AFS ⁽"Andrew File System") o AFS1 es un sistema de archivos distribuido a través de la red que fue desarrollado como parte del proyecto Andrew por la Universidad Carnegie Mellon.2 Su nombre proviene de Andrew Carnegie y Andrew Mellon. Es utilizado fundamentalmente en entornos de computación distribuida. Más información en http://es.wikipedia.org/wiki/Andrew_File_System
+* AFS ("Andrew File System") o AFS1 es un sistema de archivos distribuido a través de la red que fue desarrollado como parte del proyecto Andrew por la Universidad Carnegie Mellon.2 Su nombre proviene de Andrew Carnegie y Andrew Mellon. Es utilizado fundamentalmente en entornos de computación distribuida. Más información en http://es.wikipedia.org/wiki/Andrew_File_System
 
 **Links interesantes**
 * http://recursostic.educacion.es/observatorio/web/gl/software/software-general/733-nfs-sistema-de-archivos-de-red
